@@ -1,12 +1,12 @@
-availabilityDomains = ["oRKJ:AP-MELBOURNE-1-AD-1"]
+availabilityDomains = ["vGAR:AP-MELBOURNE-1-AD-1"]
 displayName = 'Web Server'
-compartmentId = 'ocid1.tenancy.oc1..aaaaaaaa6yxbcbl2ahuva42nxwkxpj7u77zz5oxfvjls5hsoqfngzkrtzr4q'
-imageId = "ocid1.image.oc1.ap-melbourne-1.aaaaaaaaj2zamam3q6teb6qz3rzwiyah5fytmvoy4qwbifces4uqpoiqmzpq"
-subnetId = 'ocid1.subnet.oc1.ap-melbourne-1.aaaaaaaay2jkibst4ugouuzn3nd7yr7rzerpyufsto4ux3tcqv6txh3nosza'
-ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCDk5wXJCsYxsjw/nDf0nW+IR4fc4gEdE1dyaX1QQf9oIsfWgQAGsdC9ej/Qhq9mgtrwX0w1AHLn1rrtV9KZh+pyrxtF8Ha//I2HC57sJ5ivoRzXwVEzVLLNgyR4tEZgrqRbPVcEZd2Jn5a2HNCX2QkqI862Ez4SNna1H48nKq38dByJYYelXU3Ku8ktjcGI8VksmFYjV4uupJ/apYyLaNLvPPercT5LfJ86zPq1Tfi9huhBGgoZ4GwGgNB6TdAdPOwXbBaGEsHmnyku/tMcFgNbG+PpwGu28W4d1RcVDAJswavx6bRr026rKXbvrJV10AMMotNQLA7T7j860AQKMsP ssh-key-2023-03-26"
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaku2nqn5vpawyeqyaqdwan7ihy2aukpfwkc3jhp6kkyapdkquyf3q'
+imageId = "ocid1.image.oc1.ap-melbourne-1.aaaaaaaatj2hqpfbnxcpaflilcpj4fd6ntgpgls74hvrumivlds4gqx7yr6q"
+subnetId = 'ocid1.subnet.oc1.ap-melbourne-1.aaaaaaaak4v5qq5p6f4itbmgnsbbkr3nrdqotdh5ptchyesyp7i6nbotm23a'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqZCxIjNVi0SA9QtQMQNi9Ef2wcQsLww28VnehWEufeupDCEzdXyPfEqkf9tM2LMP+yBL0zk4VbovIzKOthacw8Zy+EcA+B3/qdA4x1szXIDnMPRb6AhxvMwGq85kjGhU94gcYs59pRtu6+vfvuiHNemLE5CiFD0zEXvYZ5Kral6GmFF9TlhqI5uIVDqbjvLgqJlcURKYfyAfCAysi/VELvsXBUuKvDd6gCnpwKZklP5ArPHyVsobOCjAWtsobNd0hzB3XQfMNT31Q8mmVKf0lpzLXSpNDz1xp8jZ1gHRaLorN5HFa1QrXxcEHKHJXNAxDtEP3mbU6W4Hvr81MXqUH ssh-key-2024-11-08"
 
-ocpus = 4
-memory_in_gbs = 20
+ocpus = 2
+memory_in_gbs = 8
 wait_s_for_retry = 1
 
 import oci
