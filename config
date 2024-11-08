@@ -1,6 +1,6 @@
 [DEFAULT]
-user=ocid1.user.oc1..aaaaaaaaykiwebwge5mpsghpub62buhel6wa5dltawpqgsw6hki6zem2lika
-fingerprint=9d:68:15:19:43:ff:fc:14:45:7f:ea:32:11:66:c3:20
-tenancy=ocid1.tenancy.oc1..aaaaaaaa6yxbcbl2ahuva42nxwkxpj7u77zz5oxfvjls5hsoqfngzkrtzr4q
+user=ocid1.user.oc1..aaaaaaaajupbhdpgoa7zfqf5dbru2xknvnbiclzga27ifxyluf2mav3k5zoa
+fingerprint=c2:7d:f3:12:23:83:50:0b:f0:e0:ed:21:36:37:b8:1e
+tenancy=ocid1.tenancy.oc1..aaaaaaaaku2nqn5vpawyeqyaqdwan7ihy2aukpfwkc3jhp6kkyapdkquyf3q
 region=ap-melbourne-1
 key_file=oci_private_key.pem
